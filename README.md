@@ -21,5 +21,8 @@ concfg import path\to\molokai
 Install pshazz and use the cmder.json preset:
 ```
 scoop install pshazz
-pshazz use path\to\cmder
+```
+Copy cmder.json in your ```~/pshazz``` directory and run:
+```
+pshazz use cmder
 ```
