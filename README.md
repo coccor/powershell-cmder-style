@@ -1,6 +1,8 @@
 # powershell-cmder-style
 Make PowerShell look like cmder
 
+![PowerShell](powerShell.png)
+
 Install Scoop:
 
 ``` 
