@@ -28,3 +28,5 @@ Copy cmder.json in your ```~/pshazz``` directory and run:
 ```
 pshazz use cmder
 ```
+
+You can find step-by-step instructions here http://cornelcocioaba.ro/2017/04/28/make-powershell-look-like-cmder/
